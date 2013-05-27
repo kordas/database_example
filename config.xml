@@ -15,9 +15,9 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 	
-	<icon src="default.png" gap:role="default" />
+	<icon src="icon.png" gap:role="default" />
 
-    <gap:splash src="weirdo.png" />
+    <gap:splash src="default.png" />
 	
 	<preference name="fullscreen" value="true" />
 	<preference name="splash-screen-duration" value="10000" />
